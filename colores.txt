@@ -4,4 +4,3 @@ Verde
 Amarillo
 Naranja
 Morado
-Cyan
